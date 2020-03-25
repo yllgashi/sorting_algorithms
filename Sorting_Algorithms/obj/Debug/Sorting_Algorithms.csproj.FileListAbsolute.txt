@@ -1,0 +1,7 @@
+C:\Users\Ylli\Documents\C#\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\Sorting_Algorithms.exe.config
+C:\Users\Ylli\Documents\C#\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\Sorting_Algorithms.exe
+C:\Users\Ylli\Documents\C#\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\Sorting_Algorithms.pdb
+C:\Users\Ylli\Documents\C#\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.csprojAssemblyReference.cache
+C:\Users\Ylli\Documents\C#\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Ylli\Documents\C#\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.exe
+C:\Users\Ylli\Documents\C#\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.pdb
