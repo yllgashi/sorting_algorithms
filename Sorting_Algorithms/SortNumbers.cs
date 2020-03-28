@@ -72,6 +72,7 @@ namespace Sorting_Algorithms
 
         public void BubbleSort(int[] array)
         {
+            Console.Clear();
             for (int i = 0; i < array.Length; i++)
             {
                 for (int j = 0; j < array.Length - 1; j++)
@@ -93,6 +94,7 @@ namespace Sorting_Algorithms
 
         public void SelectionSort(int[] array)
         {
+            Console.Clear();
             for (int i = 0; i < array.Length; i++)
             {
                 for (int j = i + 1; j < array.Length; j++)
@@ -110,6 +112,7 @@ namespace Sorting_Algorithms
 
         public void InsertionSort(int[] array)
         {
+            Console.Clear();
             char answer;
             Console.Write("Do you want to implement binary search? (y/n): ");
             while (true)
@@ -141,9 +144,7 @@ namespace Sorting_Algorithms
 
         public void SequentialInsert(int[] array)
         {
-            Console.WriteLine("-------------------------------------");
-            Console.WriteLine("Insertion Sort with sequential insert");
-            Console.WriteLine("-------------------------------------");
+            Console.Clear();
             for (int i = 1; i < array.Length; i++)
             {
                 for (int j = i; j > 0; j--)
@@ -160,9 +161,7 @@ namespace Sorting_Algorithms
 
         public void SequentialAndBinaryInsert(int[] array)
         {
-            Console.WriteLine("----------------------------------------");
-            Console.WriteLine("Insertion Sort with sequential and binary search combination insert");
-            Console.WriteLine("----------------------------------------");
+            Console.Clear();
             for (int i = 1; i < array.Length; i++)
             {
                 while (true)
@@ -202,9 +201,7 @@ namespace Sorting_Algorithms
 
         public void BinarySearchSort(int[] array)
         {
-            Console.WriteLine("----------------------------------------");
-            Console.WriteLine("Insertion Sort with binary search insert");
-            Console.WriteLine("----------------------------------------");
+            Console.Clear();
             for (int i = 1; i < array.Length; i++)
             {
                 int max = i;
